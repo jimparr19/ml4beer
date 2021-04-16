@@ -30,6 +30,7 @@ twitter_username: ml4beer
 github_username:  jimparr19
 logo: "/assets/images/ml4b.png"
 masthead_title: " "
+repository: "jimparr19/ml4beer"
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.22.0"
