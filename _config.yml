@@ -31,7 +31,7 @@ github_username:  jimparr19
 logo: "/assets/images/ml4b.png"
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
