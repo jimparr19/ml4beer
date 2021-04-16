@@ -29,7 +29,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ml4beer
 github_username:  jimparr19
 logo: "/assets/images/ml4b.png"
-masthead_title: "blog"
+masthead_title: " "
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.22.0"
