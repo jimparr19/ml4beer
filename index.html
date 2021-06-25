@@ -1,4 +1,14 @@
 ---
-layout: home
-author_profile: true
+layout: splash
+classes: wide
 ---
+
+<h4 class="page__related-title">Recent Posts</h4>
+<div class="grid__wrapper">
+ {% for post in site.posts limit:8 %}
+   {% if post.id == page.id %}
+     {% continue %}
+   {% endif %}
+   {% include archive-single.html type="grid" %}
+ {% endfor %}
+</div>
